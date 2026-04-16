@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cafri\\Documents\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\postreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\postreaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401192222_AddUserReactionsFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401192222_AddUserReactionsFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190940_AddUserReactionsFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401190940_AddUserReactionsFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190501_AddUserReactionsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401190501_AddUserReactionsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260325194148_agregandodetallesdeldiseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260325194148_agregandodetallesdeldiseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325192514_AgregandoComentariosYVistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260325192514_AgregandoComentariosYVistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\dtos\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:dtos\\postcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260324194112_agregandopasswordresets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260324194112_agregandopasswordresets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\dtos\\userresetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:dtos\\userresetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260324192803_basededatoslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260324192803_basededatoslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192547_InicialCompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260324192547_InicialCompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192130_IntegracionDiagrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260324192130_IntegracionDiagrama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260325162915_agregandovideourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260325162915_agregandovideourl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260325193027_agregandocomentariosyvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260325193027_agregandocomentariosyvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260401192803_addpostreactionsfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260401192803_addpostreactionsfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|c:\\users\\cafri\\documents\\blog\\migrations\\20260331195704_reaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574D2273-5966-9EF9-4AD3-8A53043014EB}|FreakBlog.API.csproj|solutionrelative:migrations\\20260331195704_reaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260401192222_AddUserReactionsFixed.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401192222_AddUserReactionsFixed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401192222_AddUserReactionsFixed.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401192222_AddUserReactionsFixed.cs",
+              "RelativeToolTip": "Migrations\\20260401192222_AddUserReactionsFixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:22:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260401190940_AddUserReactionsFixed.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190940_AddUserReactionsFixed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401190940_AddUserReactionsFixed.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190940_AddUserReactionsFixed.cs",
+              "RelativeToolTip": "Migrations\\20260401190940_AddUserReactionsFixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:09:40.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260401190501_AddUserReactionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190501_AddUserReactionsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401190501_AddUserReactionsTable.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401190501_AddUserReactionsTable.cs",
+              "RelativeToolTip": "Migrations\\20260401190501_AddUserReactionsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:05:01.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwDkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:59:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:34:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:35:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:18:52.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostReaction.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\PostReaction.cs",
+              "RelativeDocumentMoniker": "Models\\PostReaction.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\PostReaction.cs",
+              "RelativeToolTip": "Models\\PostReaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:50:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260401192803_AddPostReactionsFixed.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401192803_AddPostReactionsFixed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401192803_AddPostReactionsFixed.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260401192803_AddPostReactionsFixed.cs",
+              "RelativeToolTip": "Migrations\\20260401192803_AddPostReactionsFixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:28:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:36:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:54:18.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260331195704_Reaccion.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260331195704_Reaccion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260331195704_Reaccion.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260331195704_Reaccion.cs",
+              "RelativeToolTip": "Migrations\\20260331195704_Reaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:57:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:22:23.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260325192514_AgregandoComentariosYVistas.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325192514_AgregandoComentariosYVistas.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260325192514_AgregandoComentariosYVistas.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325192514_AgregandoComentariosYVistas.cs",
+              "RelativeToolTip": "Migrations\\20260325192514_AgregandoComentariosYVistas.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:25:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T15:35:30.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:31:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260325193027_AgregandoComentariosYVistas.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325193027_AgregandoComentariosYVistas.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260325193027_AgregandoComentariosYVistas.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325193027_AgregandoComentariosYVistas.cs",
+              "RelativeToolTip": "Migrations\\20260325193027_AgregandoComentariosYVistas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:30:27.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260325194148_AgregandoDetallesDelDiseno.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325194148_AgregandoDetallesDelDiseno.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260325194148_AgregandoDetallesDelDiseno.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325194148_AgregandoDetallesDelDiseno.cs",
+              "RelativeToolTip": "Migrations\\20260325194148_AgregandoDetallesDelDiseno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:41:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260324192130_IntegracionDiagrama.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192130_IntegracionDiagrama.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324192130_IntegracionDiagrama.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192130_IntegracionDiagrama.cs",
+              "RelativeToolTip": "Migrations\\20260324192130_IntegracionDiagrama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:21:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260324192547_InicialCompleta.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192547_InicialCompleta.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324192547_InicialCompleta.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192547_InicialCompleta.cs",
+              "RelativeToolTip": "Migrations\\20260324192547_InicialCompleta.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:25:48.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260325162915_AgregandoVideoUrl.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325162915_AgregandoVideoUrl.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260325162915_AgregandoVideoUrl.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260325162915_AgregandoVideoUrl.cs",
+              "RelativeToolTip": "Migrations\\20260325162915_AgregandoVideoUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:29:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\PostCreateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostCreateDto.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\PostCreateDto.cs",
+              "RelativeToolTip": "Dtos\\PostCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:33:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260324192803_BaseDeDatosLista.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192803_BaseDeDatosLista.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324192803_BaseDeDatosLista.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324192803_BaseDeDatosLista.cs",
+              "RelativeToolTip": "Migrations\\20260324192803_BaseDeDatosLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:28:03.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260324194112_AgregandoPasswordResets.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324194112_AgregandoPasswordResets.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260324194112_AgregandoPasswordResets.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Migrations\\20260324194112_AgregandoPasswordResets.cs",
+              "RelativeToolTip": "Migrations\\20260324194112_AgregandoPasswordResets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:41:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PasswordReset.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\PasswordReset.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordReset.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\PasswordReset.cs",
+              "RelativeToolTip": "Models\\PasswordReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:39:53.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserResetPasswordDto.cs",
+              "RelativeToolTip": "Dtos\\UserResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:36:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:07:21.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:06:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T18:13:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "Dtos\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T15:53:46.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\cafri\\Documents\\Blog\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:56:58.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
